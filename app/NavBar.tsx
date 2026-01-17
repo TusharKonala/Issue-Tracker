@@ -72,7 +72,6 @@ const AuthStatus = () => {
 
   return (
     <Box>
-      (
       <DropdownMenu.Root>
         <DropdownMenu.Trigger>
           <Avatar
@@ -93,7 +92,6 @@ const AuthStatus = () => {
           </DropdownMenu.Item>
         </DropdownMenu.Content>
       </DropdownMenu.Root>
-      )
     </Box>
   );
 };
